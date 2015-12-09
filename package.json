@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "beautiful-docs": "PigeardSylvain/beautiful-docs",
+    "beautiful-docs": "~1.0.3",
     "mkdirp": "~0.5.0"
   },
   "devDependencies": {
