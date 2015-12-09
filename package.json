@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "beautiful-docs": "~1.0.3",
+    "beautiful-docs": "https://github.com/PigeardSylvain/beautiful-docs.git",
     "mkdirp": "~0.5.0"
   },
   "devDependencies": {
@@ -50,5 +50,28 @@
     "generator",
     "docs",
     "md"
-  ]
+  ],
+  "gitHead": "f948c70db6edba07e416cf45be042219c7155144",
+  "_id": "grunt-beautiful-docs@0.1.1",
+  "_shasum": "2ca9225064cc8ef6d837037c9070d2a06c3a6887",
+  "_from": "grunt-beautiful-docs@>=0.1.1 <0.2.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "h2non",
+    "email": "tomas@aparicio.me"
+  },
+  "maintainers": [
+    {
+      "name": "h2non",
+      "email": "tomas@aparicio.me"
+    }
+  ],
+  "dist": {
+    "shasum": "2ca9225064cc8ef6d837037c9070d2a06c3a6887",
+    "tarball": "http://registry.npmjs.org/grunt-beautiful-docs/-/grunt-beautiful-docs-0.1.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-beautiful-docs/-/grunt-beautiful-docs-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
 }
